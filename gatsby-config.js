@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteName: 'My Shop',
+    siteName: 'Traditional Art',
   },
   plugins: [
     'gatsby-plugin-sass',
